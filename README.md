@@ -18,6 +18,7 @@
 ## 📂 পিএইচপি কোড স্ট্রাকচার (Sample PHP Script)
 আমার লোকালহোস্টে থাকা `hello.php` ফাইলের কোডটি ছিল এইরকম:
 
+```php
 <?php
 // Double quotes (" ") ব্যবহার করা হয়েছে যাতে \n সঠিকভাবে কাজ করে
 echo "🎉Alhamdulillah! It works finally.\nHello from laptop local server!";
